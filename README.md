@@ -1,2 +1,2 @@
-# La-os
+# Laços
 Laços
